@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Henry! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+- 🌱 I'm currently a junior studying computer science at the University of Pennsylvania and minoring in math
+- 🔭 I enjoy learning more about full stack development, Operating/Distributed Systems, and mathematics
+- 📫 Feel free to reach me: henchen@seas.upenn.edu
 
 <!--
 **hen-chen/hen-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
