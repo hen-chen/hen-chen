@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently a junior studying computer science at the University of Pennsylvania and minoring in math
 - 🔭 I enjoy learning more about Full Stack Development, Operating/Distributed systems, and Mathematics
-- 📫 Feel free to reach me: henchen@seas.upenn.edu
+- 📫 Feel free to reach me through email: henchen@seas.upenn.edu
 
 <!--
 **hen-chen/hen-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
