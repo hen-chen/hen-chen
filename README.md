@@ -1,7 +1,7 @@
 ### Hey, I'm Henry! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 I'm currently a junior studying computer science at the University of Pennsylvania and minoring in math
-- 🔭 I enjoy learning more about Full Stack Development, Operating/Distributed Systems, and Mathematics
+- 🔭 I enjoy learning about Full Stack Development, Operating/Distributed Systems, and Mathematics
 - 📫 Feel free to reach me through email: henchen@seas.upenn.edu
 
 <!--
