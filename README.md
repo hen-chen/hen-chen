@@ -1,4 +1,4 @@
-### Hey, I'm Henry! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px" height="30px">
+### Hey, I'm Henry! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 - 🌱 I'm currently a junior studying Computer Science at the University of Pennsylvania and minoring in Math
 - 🔭 I enjoy learning about Full Stack Development, Operating/Distributed Systems, and Mathematics
